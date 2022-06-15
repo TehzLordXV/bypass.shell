@@ -1,0 +1,2 @@
+# bypass.shell
+FITRI GEMOY BYPAS SHELL
